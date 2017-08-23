@@ -31,7 +31,7 @@
 
   header {
     height: 650px;
-    background: url('header_bgr_md.html') no-repeat 50% 0;
+    background: url('https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/header_bgr_md.html') no-repeat 50% 0;
   }
   header .signin {
     padding-top: 90px;
@@ -107,7 +107,7 @@
     visibility: hidden;
     filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
     opacity: 0;
-    background: url('nav_bgr.html') no-repeat 0 0;
+    background: url('https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/nav_bgr.html') no-repeat 0 0;
     left: 50%;
     z-index: -1;
   }
@@ -154,7 +154,7 @@
   }
 
   #about {
-    background: url('bubles.png') no-repeat 50% 50%;
+    background: url('https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/bubles.png') no-repeat 50% 50%;
   }
 
   .hide-on-wide {
@@ -415,7 +415,7 @@
   }
 
   header {
-    background: url('header_bgr_lg.jpg') no-repeat 50% 50%;
+    background: url('https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/header_bgr_lg.jpg') no-repeat 50% 50%;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;

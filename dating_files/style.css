@@ -208,7 +208,7 @@ input[type="submit"]::-moz-focus-inner {
 }
 
 .social-sprite, .social-b, .social-fb, .social-in, .social-p, .social-s, .social-t, .social-tw, .social-v {
-  background: url('images/social-s67c78b8755.html') no-repeat;
+  background: url('https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/Images/social-s67c78b8755.html') no-repeat;
 }
 
 .social-b {
@@ -317,7 +317,7 @@ ul.disc li:before {
   width: 60px;
   height: 60px;
   cursor: pointer;
-  background: url('images/top.html') no-repeat 0 0;
+  background: url('https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/images/top.html') no-repeat 0 0;
   z-index: 1000000;
   -webkit-transition: none;
   -moz-transition: none;
@@ -488,7 +488,7 @@ input[type="radio"] {
   height: 39px;
   margin: 1px 10px 0 0;
   vertical-align: middle;
-  background: url('images/boy.png') no-repeat 0 0;
+  background: url('https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/images/boy.png') no-repeat 0 0;
   cursor: pointer;
   -webkit-transition: none;
   -moz-transition: none;
@@ -498,7 +498,7 @@ input[type="radio"] {
 }
 .radio span.girl {
   width: 16px;
-  background: url('images/girl.png') no-repeat 0 0;
+  background: url('https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/images/girl.png') no-repeat 0 0;
 }
 
 .input, .textarea {
@@ -520,7 +520,7 @@ label.error {
 header {
   background-color: white;
   height: 506px;
-  background: url('images/header_bgr_lg.html') no-repeat 50% 0;
+  background: url('https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/images/header_bgr_lg.html') no-repeat 50% 0;
   border-top: 3px solid #075c76;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -530,7 +530,7 @@ header #logo {
   width: 130px;
   height: 117px;
   display: block;
-  background: url('images/logo.png') no-repeat 50% 0;
+  background: url('https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/images/logo.png') no-repeat 50% 0;
   float: left;
   margin-top: -3px;
 }
@@ -628,7 +628,7 @@ header nav span b {
   width: 16px;
   display: block;
   right: 20px;
-  background: url('images/arrow_nav.png') no-repeat 0 0;
+  background: url('https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/images/arrow_nav.png') no-repeat 0 0;
   -webkit-transition: none;
   -moz-transition: none;
   -ms-transition: none;
@@ -930,7 +930,7 @@ section h1 {
 }
 
 .patern {
-  background: url('images/patern.png') repeat 0 0;
+  background: url('https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/images/patern.png') repeat 0 0;
 }
 
 #members {
@@ -940,7 +940,7 @@ section h1 {
 
 #testemonials {
   overflow: hidden;
-  background: url('images/bubles-xs.png') no-repeat 50% 50%;
+  background: url('https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/images/bubles-xs.png') no-repeat 50% 50%;
 }
 #testemonials li {
   width: 80%;
@@ -994,22 +994,22 @@ section h1 {
   transform: translate(0, 0);
 }
 #testemonials li.visible:first-child {
-  background: url('images/woman-icon.png') no-repeat 50% 20px;
+  background: url('https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/images/woman-icon.png') no-repeat 50% 20px;
 }
 #testemonials li.visible:nth-child(2) {
-  background: url('images/love-icon.png') no-repeat 50% 20px;
+  background: url('https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/images/love-icon.png') no-repeat 50% 20px;
 }
 #testemonials li.visible:nth-child(3) {
-  background: url('images/man-icon.png') no-repeat 50% 20px;
+  background: url('https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/images/man-icon.png') no-repeat 50% 20px;
 }
 #testemonials li:first-child {
-  background: url('images/woman-icon.png') no-repeat 50% -200px;
+  background: url('https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/images/woman-icon.png') no-repeat 50% -200px;
 }
 #testemonials li:nth-child(2) {
-  background: url('images/love-icon.png') no-repeat 50% -200px;
+  background: url('https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/images/love-icon.png') no-repeat 50% -200px;
 }
 #testemonials li:nth-child(3) {
-  background: url('images/man-icon.png') no-repeat 50% -200px;
+  background: url('https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/images/man-icon.png') no-repeat 50% -200px;
 }
 #testemonials h3 {
   text-transform: uppercase;
@@ -1019,7 +1019,7 @@ section h1 {
 }
 
 #get_theme {
-  background: url('images/sky.html') no-repeat 50% 50%;
+  background: url('https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/images/sky.html') no-repeat 50% 50%;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -1029,7 +1029,7 @@ section h1 {
 }
 #get_theme .wraper {
   padding: 50px 0;
-  background: url('images/patern.jpg') repeat 50% 50%;
+  background: url('https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/images/patern.jpg') repeat 50% 50%;
   width: 100%;
   height: 100%;
   display: block;
@@ -1239,10 +1239,10 @@ blockquote i {
   -webkit-background-clip: padding;
   -moz-background-clip: padding;
   background-clip: padding-box;
-  background: #d7dddf url('images/arrows.png') no-repeat -5px -4px;
+  background: #d7dddf url('https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/images/arrows.png') no-repeat -5px -4px;
 }
 .nbs-flexisel-inner > div:hover {
-  background: #97b1b1 url('images/arrows.png') no-repeat -5px -4px;
+  background: #97b1b1 url('https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/images/arrows.png') no-repeat -5px -4px;
 }
 .nbs-flexisel-inner ul {
   height: 180px;
@@ -1492,13 +1492,13 @@ html[xmlns] .slides {
   -webkit-background-clip: padding;
   -moz-background-clip: padding;
   background-clip: padding-box;
-  background: #d7dddf url('images/arrows.png') no-repeat -5px -4px;
+  background: #d7dddf url('https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/images/arrows.png') no-repeat -5px -4px;
   text-indent: -9999px;
 }
 .flex-direction-nav a:hover {
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
   opacity: 1;
-  background: #97b1b1 url('images/arrows.png') no-repeat -5px -4px;
+  background: #97b1b1 url('https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/images/arrows.png') no-repeat -5px -4px;
 }
 .flex-direction-nav .flex-next {
   background-position: -36px -4px;
@@ -1532,7 +1532,7 @@ html[xmlns] .slides {
   max-width: none;
   height: auto !important;
   padding: 2px 0;
-  background: url('images/reg_bgr.png') no-repeat 0 0;
+  background: url('https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/images/reg_bgr.png') no-repeat 0 0;
 }
 
 #cboxOverlay {
@@ -1616,7 +1616,7 @@ html[xmlns] .slides {
     ordered & tabbed in a way that represents the nesting of the generated HTML.
 */
 #cboxOverlay {
-  background: url('images/overlay.html') repeat 0 0;
+  background: url('https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/images/overlay.html') repeat 0 0;
 }
 
 #colorbox {
@@ -1626,45 +1626,45 @@ html[xmlns] .slides {
 #cboxTopLeft {
   width: 14px;
   height: 14px;
-  background: url(images/controls.png) no-repeat 0 0;
+  background: url(https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/images/controls.png) no-repeat 0 0;
 }
 
 #cboxTopCenter {
   height: 14px;
-  background: url(images/border.png) repeat-x top left;
+  background: url(https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/images/border.png) repeat-x top left;
 }
 
 #cboxTopRight {
   width: 14px;
   height: 14px;
-  background: url(images/controls.png) no-repeat -36px 0;
+  background: url(https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/images/controls.png) no-repeat -36px 0;
 }
 
 #cboxBottomLeft {
   width: 14px;
   height: 43px;
-  background: url(images/controls.png) no-repeat 0 -32px;
+  background: url(https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/images/controls.png) no-repeat 0 -32px;
 }
 
 #cboxBottomCenter {
   height: 43px;
-  background: url(images/border.png) repeat-x bottom left;
+  background: url(https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/images/border.png) repeat-x bottom left;
 }
 
 #cboxBottomRight {
   width: 14px;
   height: 43px;
-  background: url(images/controls.png) no-repeat -36px -32px;
+  background: url(https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/images/controls.png) no-repeat -36px -32px;
 }
 
 #cboxMiddleLeft {
   width: 14px;
-  background: url(images/controls.png) repeat-y -175px 0;
+  background: url(https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/images/controls.png) repeat-y -175px 0;
 }
 
 #cboxMiddleRight {
   width: 14px;
-  background: url(images/controls.png) repeat-y -211px 0;
+  background: url(https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/images/controls.png) repeat-y -211px 0;
 }
 
 #cboxContent {
@@ -1682,11 +1682,11 @@ html[xmlns] .slides {
 }
 
 #cboxLoadingOverlay {
-  background: url(images/loading_background.png) no-repeat center center;
+  background: url(https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/images/loading_background.png) no-repeat center center;
 }
 
 #cboxLoadingGraphic {
-  background: url(images/loading.gif) no-repeat center center;
+  background: url(https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/images/loading.gif) no-repeat center center;
 }
 
 #cboxTitle {
@@ -1747,7 +1747,7 @@ html[xmlns] .slides {
 }
 
 #cboxClose {
-  background: url('images/close.html') no-repeat 0 0;
+  background: url('https://cdn.rawgit.com/raficoo/date/03338fc9/dating_files/images/close.html') no-repeat 0 0;
   width: 16px;
   height: 16px;
   display: block;
